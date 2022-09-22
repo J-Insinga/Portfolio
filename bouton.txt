@@ -1,0 +1,8 @@
+        <a
+          href="INSINGA_Jérémie_CV.pdf"
+          target="_blank"
+          rel="noreferrer"
+          class="btn-rounded-white"
+        >
+          Download Resume 
+        </a>

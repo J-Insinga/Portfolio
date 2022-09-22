@@ -1,0 +1,16 @@
+{
+  "name": "jeremie-insinga-site",
+  "version": "1.1.1",
+  "description": "Jérémie Insinga site web personnel",
+  "main": "index.html",
+  "keywords": [
+    "portfolio",
+    "personnel",
+    "site web",
+    "tech",
+    "coding",
+    "dev"
+  ],
+  "author": "Jérémie Insinga",
+  "license": "MIT"
+}
